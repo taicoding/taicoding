@@ -25,7 +25,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=PythonTips&theme=jolly&hide_border=true)
 ---
 
-<h2 align="left">🧰 Toolbox</h2>
+<h2 align="left"> 🧰 Toolbox </h2>
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
