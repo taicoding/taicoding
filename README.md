@@ -4,4 +4,4 @@
 ---
 ### 🧰Toolbox
 ---
-![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicoding&count_private=true)
+![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicoding&count_private=true&show_icons=true&theme=jolly)
