@@ -21,7 +21,7 @@
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=github-readme-stats&theme=jolly&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=instagram-visualizations&theme=jolly&hide_border=true)
 
 ---
 
