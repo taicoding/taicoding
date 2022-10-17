@@ -13,10 +13,10 @@
     <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plot_ly" width="40" height="40"/> 
   </a>
   <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
   </a>
   <a href="https://www.pandas.org" target="_blank" rel="noreferrer"> 
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="80" height="40"/> 
   </a>
   
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
