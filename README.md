@@ -1,10 +1,19 @@
 ![cover-new-01](https://user-images.githubusercontent.com/6510765/196070012-90801a60-b742-4d7d-b4e7-81e28f889161.jpg)
 
-<h1 align="center"> Hi there, I'm Tai 🐍🌠 ! </h1>
+<h1 align="center"> Hi there, I'm Tai 🐍🌠! </h1>
 
 ---
 
-<h3 align="left">🧰Toolbox</h3>
+<h2 align="center"> About me </h2>
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning Natural Language Processing
+- 👯 I’m looking to collaborate on Translation Projects and Educational Projects
+- 💬 Ask me about Python
+- 📫 How to reach me at [taicoding](https://linktr.ee/taicoding)
+
+---
+
+<h2 align="center">🧰 Toolbox</h2>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
