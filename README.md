@@ -9,6 +9,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plot_ly" width="40" height="40"/> 
   </a>
