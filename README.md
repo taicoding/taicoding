@@ -21,6 +21,10 @@
 
 ---
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=github-readme-stats&theme=jolly&hide_border=true)
+
+---
+
 <h2 align="left">🧰 Toolbox</h2>
 
 <p align="left"> 
