@@ -3,3 +3,5 @@
 ## Hi there, I'm Tai!
 ---
 ### 🧰Toolbox
+---
+![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicoding&count_private=true)
