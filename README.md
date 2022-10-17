@@ -21,8 +21,8 @@
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=instagram-visualizations&theme=jolly&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=PythonTips&theme=jolly&hide_border=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=instagram-visualizations&theme=jolly&hide_border=true)](https://github.com/taicoding/instagram-visualizations)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=PythonTips&theme=jolly&hide_border=true)](https://github.com/taicoding/PythonTips)
 ---
 
 <h2 align="left"> 🧰 Toolbox </h2>
