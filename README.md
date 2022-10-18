@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on IA for Social Impact and Education projects
 
-- 💬 Ask me about Python, [Python La Paz](https://linktr.ee/pythonlapaz)
+- 💬 Ask me about Python and [Python La Paz](https://linktr.ee/pythonlapaz)
 
 - 📫 How to reach me? Ask for a meeting at [calendly](https://calendly.com/tai-delgadillo/30min)
 
