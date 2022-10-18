@@ -13,16 +13,19 @@
 
 - 🌱 I’m currently learning Natural Language Processing
 
-- 👯 I’m looking to collaborate on Translation Projects and Educational Projects
+- 👯 I’m looking to collaborate on IA for Social Impact and Education projects
 
-- 💬 Ask me about Python
+- 💬 Ask me about Python and [Python La Paz](https://linktr.ee/pythonlapaz)
 
-- 📫 How to reach me at [taicoding](https://linktr.ee/taicoding)
+- 📫 How to reach me? Ask for a meeting at [calendly](https://calendly.com/tai-delgadillo/30min)
 
 ---
 
+<h2 align="left"> My Projects ✨ </h2>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=instagram-visualizations&theme=jolly&hide_border=true)](https://github.com/taicoding/instagram-visualizations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=PythonTips&theme=jolly&hide_border=true)](https://github.com/taicoding/PythonTips)
+
 ---
 
 <h2 align="left"> 🧰 Toolbox </h2>
@@ -81,7 +84,9 @@
 
 ---
 
-![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=taicoding&count_private=true&show_icons=true&theme=jolly&hide_border=true)
+<h2 align="left"> 👩🏻‍💻 My Performance </h2>
+
+![Tai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taicoding&count_private=true&show_icons=true&theme=jolly&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taicoding&theme=jolly&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taicoding&layout=compact&count_private=true&theme=jolly&hide_border=true&exclude_repo=MoonBuny)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taicoding&layout=compact&count_private=true&theme=jolly&hide_border=true&exclude_repo=MoonBuny)
