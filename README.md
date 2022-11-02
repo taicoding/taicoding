@@ -90,3 +90,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taicoding&theme=jolly&hide_border=true)
 
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taicoding&layout=compact&count_private=true&theme=jolly&hide_border=true&exclude_repo=MoonBuny)
+
+[![@taicoding's Holopin board](https://holopin.me/taicoding)](https://holopin.io/@taicoding)
