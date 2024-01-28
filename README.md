@@ -9,7 +9,7 @@
 
 <h2 align="left"> About me 👩‍🚀 </h2>
 
-- 🔭 I’m currently working at (Ada School)[https://ada-school.org/]
+- 🔭 I’m currently working at [Ada School](https://ada-school.org/)
 
 - 🌱 I’m currently learning Natural Language Processing
 
