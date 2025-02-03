@@ -9,7 +9,7 @@
 
 <h2 align="left"> About me 👩‍🚀 </h2>
 
-- 🔭 I’m currently working at [Ada School](https://ada-school.org/)
+- 🔭 I’m currently open to new job opportunities.
 
 - 🌱 I’m currently learning Natural Language Processing
 
@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
   </a>
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plot_ly" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg" alt="plot_ly" width="80" height="40"/> 
   </a>
   <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
@@ -51,7 +51,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> 
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
@@ -87,8 +87,6 @@
 <h2 align="left"> 👩🏻‍💻 My Performance </h2>
 
 ![Tai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taicoding&count_private=true&show_icons=true&theme=jolly&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taicoding&theme=jolly&hide_border=true)
-
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taicoding&layout=compact&count_private=true&theme=jolly&hide_border=true&exclude_repo=MoonBuny)
 
 [![@taicoding's Holopin board](https://holopin.me/taicoding)](https://holopin.io/@taicoding)
