@@ -7,28 +7,28 @@
 
 ---
 
-<h2 align="left"> About me 👩‍🚀 </h2>
+## 👩‍🚀 About Me
 
-- 🔭 I’m currently open to new job opportunities.
+- 🔍 Currently open to new job opportunities
 
-- 🌱 I’m currently learning Natural Language Processing
+- 🧠 Exploring the world of Natural Language Processing
 
-- 👯 I’m looking to collaborate on IA for Social Impact and Education projects
+- 🤝 Looking to collaborate on AI for Social Impact and Education
 
-- 💬 Ask me about Python and [Python La Paz](https://linktr.ee/pythonlapaz)
+- 🐍 Pythonista and active member of [Python La Paz](https://linktr.ee/pythonlapaz)
 
-- 📫 How to reach me? Ask for a meeting at [calendly](https://calendly.com/tai-delgadillo/30min)
+- 📅 Book a meeting with me [Calendly](https://calendly.com/tai-delgadillo/30min)  or connect via [LinkedIn](https://www.linkedin.com/in/taicoding/)
 
 ---
 
-<h2 align="left"> My Projects ✨ </h2>
+## ✨ Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=instagram-visualizations&theme=jolly&hide_border=true)](https://github.com/taicoding/instagram-visualizations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taicoding&repo=PythonTips&theme=jolly&hide_border=true)](https://github.com/taicoding/PythonTips)
 
 ---
 
-<h2 align="left"> 🧰 Toolbox </h2>
+## 🧰 Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -84,9 +84,16 @@
 
 ---
 
-<h2 align="left"> 👩🏻‍💻 My Performance </h2>
+## 📊 GitHub Stats
+<div align="center"> 
+  <!-- GitHub Stats Card --> 
+  <img src="https://github-readme-stats.vercel.app/api?username=taicoding&show_icons=true&theme=jolly&hide=contribs,prs&hide_border=true" width="45%" /> 
+  <!-- GitHub Streak Stats --> 
+  <img src="https://streak-stats.demolab.com?user=taicoding&theme=jolly&hide_border=true" width="45%" /> 
+  <!-- Top Languages --> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taicoding&layout=compact&theme=jolly&hide_border=true&langs_count=6" width="45%" /> 
+</div>
 
-![Tai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taicoding&count_private=true&show_icons=true&theme=jolly&hide_border=true)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taicoding&layout=compact&count_private=true&theme=jolly&hide_border=true&exclude_repo=MoonBuny)
+## 🏅 Holopin Badges
 
 [![@taicoding's Holopin board](https://holopin.me/taicoding)](https://holopin.io/@taicoding)
